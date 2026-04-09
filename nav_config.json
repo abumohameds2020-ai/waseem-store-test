@@ -1,0 +1,39 @@
+[
+  {
+    "id": "shop",
+    "label": "Shop",
+    "type": "mega",
+    "href": "/shop",
+    "categories": [
+      {
+        "title": "Acoustic Config",
+        "items": [
+          { "label": "Planar Magnetic", "href": "#catalog" },
+          { "label": "Dynamic", "href": "#catalog" },
+          { "label": "Hybrid", "href": "#catalog" },
+          { "label": "Electrostatic", "href": "#catalog" }
+        ]
+      },
+      {
+        "title": "Tactical Gear",
+        "items": [
+          { "label": "E-Sports", "href": "#catalog" },
+          { "label": "Studio", "href": "#catalog" },
+          { "label": "Daily", "href": "#catalog" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "label": "Support",
+    "type": "direct",
+    "href": "#catalog"
+  },
+  {
+    "id": "about",
+    "label": "About",
+    "type": "direct",
+    "href": "#catalog"
+  }
+]

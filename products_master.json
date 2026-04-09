@@ -1,0 +1,185 @@
+{
+  "settings": {
+    "maintenanceMode": false,
+    "saleBanner": {
+      "enabled": true,
+      "text": "FREE SHIPPING ON ALL ORDERS •50% SHOP NOW",
+      "color": "#ef4444"
+    },
+    "ai": {
+      "gemini_key": "AIzaSyBltFccf2Vg2nadspXZPzQeHFrwhX8AQNg"
+    },
+    "marketing": {
+      "pixel_id": "  310546132465445"
+    }
+  },
+  "cms": {
+    "about": {
+      "title": "Precision Audio For The Elite",
+      "philosophy": "Our Philosophy",
+      "description": "Waseem's Audio is not a store. It is a technical armory where pure acoustic science meets ultra-modern luxury. We don't sell headphones; we deploy auditory tools.",
+      "mainImage": "/assets/uploads/1775620822070__cb8bf71f_d2b9_4347_8db7_c4a43709f1ca_.png"
+    },
+    "anatomy": {
+      "image": "/assets/exploded_iem.png"
+    },
+    "collectionImages": {
+      "planar": "/assets/planar_series.png",
+      "esports": "/assets/esports_series.png",
+      "daily": "/assets/daily_series.png"
+    },
+    "quizWeights": {
+      "bass": "kz-phantom",
+      "clarity": "kz-pr3",
+      "gaming": "kz-phantom"
+    },
+    "parallax": {
+      "image_2": "/assets/uploads/1775669396832__9c952d23_af10_4549_bd21_79eb54f9eafa__photoroom.png",
+      "image_1": "/assets/uploads/1775669405272__b7508b69_7ed4_413e_b569_ed31f9aa97fc__photoroom.png"
+    },
+    "specs": {
+      "banner_image": "/assets/uploads/1775669487496__b7508b69_7ed4_413e_b569_ed31f9aa97fc_.png"
+    }
+  },
+  "collections": [
+    {
+      "id": "gaming-pro",
+      "name": "Best for Gaming",
+      "description": "High-precision soundstaging for competitive edges.",
+      "productIds": [
+        "kz-phantom"
+      ]
+    },
+    {
+      "id": "hifi-pure",
+      "name": "Audiophile Choice",
+      "description": "Clinical frequency response for pure music enjoyment.",
+      "productIds": [
+        "kz-phantom",
+        "kz-pr3"
+      ]
+    }
+  ],
+  "slider": {
+    "slides": [
+      {
+        "id": "kz-phantom",
+        "rank": 1,
+        "headline": "The Ultimate Esports Weapon",
+        "description": "Experience professional-grade frequency response with a handcrafted 128dB sensitivity core.",
+        "color": "#fbbf24",
+        "image": "/uploads/1775599788728__cb8bf71f_d2b9_4347_8db7_c4a43709f1ca__photoroom.png",
+        "xray_external_image": "/uploads/1775677302073__8d7e6721_faa8_4ebf_aa11_4ac9362f3ea2_.png",
+        "xray_internal_reveal": "/uploads/1775677334205__0b17f981_6203_492e_8700_cbb18bec9b39_.png"
+      },
+      {
+        "id": "kz-duonic",
+        "rank": 2,
+        "headline": "Triple-Magnetic Precision",
+        "description": "The worlds first industry-grade three-magnetic planar driver.",
+        "color": "#fbbf24",
+        "image": "/uploads/1775677347289__b7508b69_7ed4_413e_b569_ed31f9aa97fc__photoroom.png",
+        "xray_external_image": "/uploads/1775677191251__5bead697_4817_48cb_9100_52914c420f4d_.png",
+        "xray_internal_reveal": "/uploads/1775677194408__0bf6a0f4_78b5_4067_89c2_07569d63b260_.png"
+      },
+      {
+        "id": "kz-pr3",
+        "rank": 3,
+        "headline": "Electronic Filter Planar",
+        "description": "High-precision 13.2mm planar driver integrated with advanced electronic filtering.",
+        "color": "#00e5ff",
+        "image": "/uploads/1775599802840__9c952d23_af10_4549_bd21_79eb54f9eafa__photoroom.png",
+        "xray_external_image": "/uploads/1775677505386__84f4baae_ab32_4d4e_8666_e075c3403588_.png",
+        "xray_internal_reveal": "/uploads/1775677507193__93b61f24_8ea3_47b1_a166_77403fc82200_.png"
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "kz-duonic",
+      "name": "KZ Duonic",
+      "headline": "KZ Duonic",
+      "category": "Planar",
+      "driver_config": "Professional Tech",
+      "description": "## KZ Duonic: The Professional Planar Revelation\n\nFor the discerning audiophile who demands nothing less than absolute sonic truth, KZ proudly presents the **Duonic**.",
+      "specs": {
+        "frequency_response": "10-20000Hz",
+        "impedance": "24Ω",
+        "sensitivity": "103dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "local_price": "120.00",
+      "local_stock": true,
+      "global_price": "95.00",
+      "aliexpress_link": "https://ar.aliexpress.com/item/1005006237217749.html?aff_fcid=b11052e72e134b038c52b921c6ef8327-1775678513031-06007-_c3rBF54r&tt=CPS_NORMAL&aff_fsk=_c3rBF54r&aff_platform=portals-tool&sk=_c3rBF54r&aff_trace_key=b11052e72e134b038c52b921c6ef8327-1775678513031-06007-_c3rBF54r&terminal_id=e7be0c22e30549c9a4c47208f90f2b10&afSmartRedirect=y&gatewayAdapt=4itemAdapt",
+      "images": {
+        "product": "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-01.webp-812ed902-d1ac-4395-b1c7-4bd9d6ad170f.webp",
+        "internal": "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-02-03.webp-0a6d01ba-2805-4e4e-8e4e-7901c279ed06.webp"
+      },
+      "gallery": [
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-01-mob.webp-e81efd4f-b636-4073-95d7-6974fd9347fd.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-duonic.html"
+      },
+      "is_featured": true,
+      "changelog": [],
+      "local_shipping_time": "24",
+      "global_shipping_time": "10"
+    },
+    {
+      "id": "kz-phantom",
+      "name": "KZ Phantom",
+      "headline": "Planar Magnetic Reference",
+      "category": "Planar",
+      "driver_config": "13.2mm Nano-Planar Driver",
+      "local_price": "85.00",
+      "local_stock": false,
+      "global_price": "65.00",
+      "aliexpress_link": "https://www.aliexpress.com/item/1005006063636363.html",
+      "description": "The flagship performance IEM.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "16Ω",
+        "sensitivity": "103dB"
+      },
+      "signature": "Balanced",
+      "price_range": "High-End",
+      "images": {
+        "product": "/uploads/1775599788728__cb8bf71f_d2b9_4347_8db7_c4a43709f1ca__photoroom.png"
+      },
+      "links": {
+        "official": "https://kz-audio.com"
+      },
+      "is_featured": true,
+      "changelog": []
+    },
+    {
+      "id": "kz-pr3",
+      "name": "KZ PR3",
+      "headline": "The Pure Planar",
+      "category": "Planar",
+      "driver_config": "13.2mm Driver",
+      "local_price": "60.00",
+      "local_stock": true,
+      "global_price": "45.00",
+      "aliexpress_link": "https://www.aliexpress.com/item/kz-pr3-link.html",
+      "description": "Pure sonic precision.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "15Ω",
+        "sensitivity": "98dB"
+      },
+      "signature": "Neutral",
+      "images": {
+        "product": "/uploads/1775599802840__9c952d23_af10_4549_bd21_79eb54f9eafa__photoroom.png"
+      },
+      "links": {
+        "official": "https://kz-audio.com"
+      },
+      "is_featured": true,
+      "changelog": []
+    }
+  ]
+}

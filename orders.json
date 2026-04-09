@@ -1,0 +1,65 @@
+[
+  {
+    "customer": "saad",
+    "phone": "01067197582",
+    "address": "ahe",
+    "city": "Alexandria",
+    "items": [
+      {
+        "id": "kz-duonic",
+        "name": "KZ Duonic",
+        "price": 1214.88,
+        "image": "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-01.webp-812ed902-d1ac-4395-b1c7-4bd9d6ad170f.webp",
+        "quantity": 1
+      }
+    ],
+    "total": 1214.88,
+    "status": "Pending",
+    "id": "ORD-6527",
+    "createdAt": "2026-04-08T02:04:56.620Z"
+  },
+  {
+    "id": "ORD-7742",
+    "customer": "Ahmed Hassan",
+    "phone": "+201012345678",
+    "email": "ahmed.hassan@example.com",
+    "city": "Cairo",
+    "address": "12 Al-Maadi St, Building 4, Flat 10",
+    "items": [
+      {
+        "id": "kz-zs10-pro-2",
+        "name": "KZ ZS10 Pro 2",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "total": 55,
+    "status": "Shipped",
+    "createdAt": "2024-04-01T10:00:00Z"
+  },
+  {
+    "id": "ORD-8821",
+    "customer": "Mohamed Ali",
+    "phone": "+201119876543",
+    "email": "m.ali@example.com",
+    "city": "Alexandria",
+    "address": "45 Corniche Rd, Stanley, Apt 3",
+    "items": [
+      {
+        "id": "kz-pr3",
+        "name": "KZ PR3",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "id": "kz-edx-pro",
+        "name": "KZ EDX Pro",
+        "quantity": 2,
+        "price": 15
+      }
+    ],
+    "total": 75,
+    "status": "Pending",
+    "createdAt": "2024-04-05T14:30:00Z"
+  }
+]

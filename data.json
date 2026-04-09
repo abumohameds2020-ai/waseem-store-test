@@ -1,0 +1,436 @@
+{
+  "models": [
+    {
+      "id": "kz-duonic",
+      "name": "KZ Duonic",
+      "headline": "KZ Duonic",
+      "category": "Planar",
+      "driver_config": "Professional Tech",
+      "description": "Industry First Three-Magnetic Planar Driver Earphones.",
+      "specs": {
+        "frequency_response": "10-20000Hz",
+        "impedance": "24Ω",
+        "sensitivity": "103dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-01.webp-812ed902-d1ac-4395-b1c7-4bd9d6ad170f.webp",
+        "internal": "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-02-03.webp-0a6d01ba-2805-4e4e-8e4e-7901c279ed06.webp"
+      },
+      "gallery": [
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-01-mob.webp-e81efd4f-b636-4073-95d7-6974fd9347fd.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-02-01.webp-645c4e73-56a3-4139-a7c3-d00eb4e0aafe.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-02-02.webp-e6472423-4ae1-41cb-ba92-86154185c7db.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-03.webp-5bf0b648-3c2e-4c4d-ba8d-78a1003b5cfb.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-04.webp-4020bee5-2962-4029-9df3-d91fc36b3005.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-05-01.webp-5ef4f17f-34aa-4c49-a659-2a1d42107d17.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-06-01.webp-6f3fee77-4511-4521-a848-b11a722d06f5.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-06-02.webp-68e5e1ec-79d6-44e0-9341-d3729c8f757b.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-07.webp-9149f0ef-6b38-4c32-be03-a7c8c5324f5f.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-09-01.webp-2c54e38c-32cf-4fd0-89fd-f75994bf0121.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-09-02.webp-86755cb6-c782-4749-a627-3573859500f6.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-10.webp-efb1acfe-b9d4-45d2-9cf2-abc0744c58a8.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-11.webp-67fee931-688a-4733-b111-2c7fa1b85ee1.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-13.webp-8c467890-9a22-4cff-9956-3385edc450c0.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-14-01.webp-07440aab-31e7-40a7-8896-9d19c8631faa.webp",
+        "/assets/internal/kz-Duonic/Thunderbit - 15947d42-dbfc-4898-94c4-0ebee833635a/kz-duonic-14-02.webp-71d52c58-21a9-413e-bc56-2ca87c27d6af.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-duonic.html"
+      }
+    },
+    {
+      "id": "kz-prx",
+      "name": "KZ PRX",
+      "headline": "KZ PRX",
+      "category": "Planar",
+      "driver_config": "Professional Tech",
+      "description": "Fourth-Generation Newly Designed Planar Driver IEM.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "15Ω",
+        "sensitivity": "94±3dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-01.webp-c4aa50a5-1d4c-4936-bcf5-1c593ca9d211.webp",
+        "internal": "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-03.webp-49753861-080c-4ef1-904e-0a0bfaddd8e1.webp"
+      },
+      "gallery": [
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-01-mob.webp-e0f9266d-d96a-4b1e-892f-09602a03decc.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-02.webp-4f38e45c-b759-4492-8727-a38436766655.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-04.webp-51b3b838-0fef-4b7e-9fea-191299b590f7.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-05.webp-91f1b2bf-7d68-46df-b2d1-8fd4ffeeecfb.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-06-01.webp-66073d0d-e19f-419d-9630-86adcc1c6cb4.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-06-02.webp-97227726-72c4-4fdf-903b-bd3a6b8a48c8.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-07-01.webp-8c4b56fb-6d70-4c73-b5cc-5bec3c79b99b.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-07.webp-08f2d555-0cf9-4bd3-b700-07b7c0613b29.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-08.webp-62587103-0692-4ea1-a34e-9ce3454168cb.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-09-01.webp-af383ed0-d072-4e6e-959c-c57d9f279560.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-09-02.webp-122c1fcf-00cb-40a9-ba72-ff88e858c97a.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-09-03.webp-6e7dd706-34d9-4c89-9a32-46ed773f7536.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-10.webp-19ffa19b-bf5e-465f-b408-69b192b94152.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-11.webp-142010d4-d7cc-45c5-a7ac-6f009cdd90dc.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-12.webp-4198e515-fddc-4941-ab6b-6efe2e03e199.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-14.webp-e9bcfde7-a76c-4d70-b444-aebd5263fa60.webp",
+        "/assets/internal/kz-PRX/Thunderbit - 9d373754-d273-44d8-b799-aaf4f7305030/kz-prx-photo.webp-ae2d9f74-1489-42dd-8d85-9193a02f9cb2.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-prx.html"
+      }
+    },
+    {
+      "id": "kz-pr3",
+      "name": "KZ PR3",
+      "headline": "KZ PR3",
+      "category": "Planar",
+      "driver_config": "13.2mm",
+      "description": "13. 2mm Planar Driver In-Ear Monitor with Electronic Filter.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "15Ω",
+        "sensitivity": "98±3dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-01.webp-c77c1ee9-3868-40e1-b981-6a4a396a9d56.webp",
+        "internal": "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-03.webp-1ae263bc-5b01-48b0-a05b-23f7a92e6c73.webp"
+      },
+      "gallery": [
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-01-mob.webp-ccf0013a-829a-4aeb-9542-6ac471451766.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-02-2.webp-b75b5540-de70-49f8-95be-93c8e6e6b7da.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-04.webp-2f50f73e-0ed5-47aa-b757-6d2f4685ed0f.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-05.webp-8c3eca27-5026-4726-a4a7-7bf16c0be0a1.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-06-1.webp-5e8bc735-6535-4f89-8dca-1541afa40c86.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-06-2.webp-62b9ce33-9fe3-4c34-8310-05571367fc5e.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-06-3.webp-3d0f2dfc-84b3-4570-99fd-87029b593a86.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-06-4.webp-942b1e33-a2c0-4c94-a4d5-0689d7ce4bc0.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-08.webp-21697cc6-958b-4b99-ab2a-494ed50355a7.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-09.webp-3b9e9765-634d-4b29-8c1b-e9257f0ddc36.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-10.webp-cb290f40-b713-4df8-b754-e4bb42aee2b9.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-11.webp-a24c471f-7262-4ad5-a9c4-f8c07d8c6f1d.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-12-01.webp-9374e7ed-1f58-46a1-97d4-8095adedb9cc.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-12-02.webp-8919a305-bc91-4d1f-9119-20a78019cba7.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-13.webp-e949f0c3-b9eb-4b34-bb59-637e7b5ff651.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-14.webp-ddf2a991-1ded-4cce-b002-d1ec30dde7dc.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-15.webp-2dd7dc41-069d-49af-b48a-6117b2e5ad63.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-16.webp-1539d473-7d27-4777-adb9-1a6e87c73942.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-17.webp-d39787e9-9248-4a98-bc90-26338d67376e.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-18.webp-910f231a-63c0-4036-aabf-4f3d5824051c.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-19-1.webp-43e54dc2-a90a-4840-bafb-46327e40d440.webp",
+        "/assets/internal/kz-PR3/Thunderbit - 0bd0405b-77fd-4672-81aa-18aa4add25ab/kz-pr3-19-2.webp-eaa8dbcb-1072-4d56-81a1-0e85d1b6c9b2.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-pr3.html"
+      }
+    },
+    {
+      "id": "kz-pr2",
+      "name": "KZ PR2",
+      "headline": "KZ PR2",
+      "category": "Planar",
+      "driver_config": "Professional Tech",
+      "description": "Planar Driver In-Ear Monitor with 7x7 Rubidium Magnets.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "15Ω",
+        "sensitivity": "94±3dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-01.webp-6d627d9d-ca5f-4e02-9b71-190f284c1dc0.webp",
+        "internal": "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-02-icon-03.webp-7b217e2a-c15b-492d-82d6-6ae580e94200.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-01-mob.webp-5d4ced3b-91a6-40d5-8aa3-6e9204591dc8.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-03.webp-3eff3f74-56e7-4521-b1f4-543a14e855e7.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-04.webp-a557b14a-9025-4231-999b-9a0363c09579.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-05.webp-00a93051-f762-42b0-a74f-a8ce4df24d8b.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-06.webp-08fccb5c-ccb9-445a-a907-f11f14194e7e.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-07.webp-6bdc76d2-2d94-4c71-9c75-6b37415ef779.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-08.webp-722b5fca-6594-4770-a499-4b941d388a23.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-09.webp-d524d7f5-b8e8-4f9a-b3f7-290e82aa2de1.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-10.webp-7208637b-44d1-4a10-8226-605fece143c0.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-11.webp-21850cee-a8c6-4eb2-ae0e-c79c008cd07b.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-13.webp-f18fc5aa-a2a8-48d0-886f-ffa14d0fc039.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-14-01.webp-49e7839b-5383-4183-b54b-1ab7043e1531.webp",
+        "/assets/internal/KZ PR2/Thunderbit - bc64c960-8c97-4d71-84f0-ea833fc64011/kz-pr2-14-02.webp-a14f95f6-b74c-42f0-9678-af309491f040.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-pr2.html"
+      }
+    },
+    {
+      "id": "kz-zs12-pro-x",
+      "name": "KZ ZS12 Pro X",
+      "headline": "KZ ZS12 Pro X",
+      "category": "Hybrid",
+      "driver_config": "Professional Tech",
+      "description": "1DD+5BA Tunable Hybrid Full-Metal Cavity IEM.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "25Ω",
+        "sensitivity": "106dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-01.webp-300252ca-1716-4b71-b547-42952bfc15e5.webp",
+        "internal": "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-03.webp-510020b5-e694-4fb0-bf2b-3c1036dfaf3e.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-01-mob.webp-ca3cf174-a54a-4581-8ab5-e085b6e097ff.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-02.webp-486703a1-ac8b-43c5-a013-8eab52b96e64.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-04.webp-477c077c-9789-42e1-b9ac-a5ab0698ab3e.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-05.webp-38d867f2-3394-4840-9305-8b71ef2d066e.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-06.webp-ac1ac0af-72f0-4ddb-b4e2-c36a4afeb0d8.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-07.webp-dc1db389-cb77-46cb-a02e-a075019204c9.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-08-2.webp-4b33c8b8-f0bf-415d-8c06-943ccfc4a67c.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-08.webp-86f28717-2291-4409-9676-ea418c20c64f.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-09.webp-ccd1afeb-e5ec-4ea2-b27a-00c8e44a1367.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-10.webp-c369bca7-79b9-43b0-9f9e-e0683671ff07.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-11.webp-1b6de357-133a-4539-b38c-20c3b629814a.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-12.webp-e724a1e7-5cbd-475f-8f21-aea9b7e5c28a.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-13.webp-c554b1fc-13a8-4367-8d7b-3065d6d79507.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-14.webp-776d1158-a01a-402e-88ea-eba67506c27c.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-15-1.webp-1822c731-7870-4de8-969c-d95d232fbd4b.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-15-2.webp-95ed9309-c6a6-4483-bbab-bda63b65d554.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-15.webp-a999f14d-ea07-44f2-961d-9381aa376608.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-16.webp-b71fae69-8827-4cea-80b1-beb52e334ef0.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-photo1.webp-b2091990-db0b-4bc1-8e32-612ddd4cfae8.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-photo2.webp-12de4ca1-77b6-4f79-aae9-fa80e85f5ef3.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-photo3.webp-7bbc0575-ccba-4e99-84d2-f4e1fea8244e.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-photo4.webp-a23ea5f9-403c-4800-9ef2-156b55133d50.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-photo5.webp-e966b6a4-a4a1-49a7-b6e5-eb47f6f3547a.webp",
+        "/assets/internal/KZ ZS12 Pro X/Thunderbit - 82c1f88b-0275-4d9b-b4f0-0e59dc342f4d/kz-zs12-pro-x-photo6.webp-a95f9c23-007f-4bab-bfc6-911423bcc5a0.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-zs12-pro-x.html"
+      }
+    },
+    {
+      "id": "kz-zs10-pro-2",
+      "name": "KZ ZS10 Pro 2",
+      "headline": "KZ ZS10 Pro 2",
+      "category": "Hybrid",
+      "driver_config": "10mm",
+      "description": "10mm DD + Dual 31736 BA Hybrid Tunable Earphones.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "25Ω",
+        "sensitivity": "108±3dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-01.webp-2e68dfc5-d7b1-4c0e-b79c-9ddbcc5b9ab9.webp",
+        "internal": "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-03.webp-4439d565-d50c-4696-b3b8-7b9ed0473fc4.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-01-mob.webp-2a6a207a-8319-4d3e-8a30-993756c0e8ea.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-02.webp-1a2cede9-14e8-4ffb-a324-dca7c602f1aa.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-04.webp-3e3eeecd-536e-40f3-be16-2d1980dfb881.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-05.webp-622e1e33-76f7-432b-86fd-f00fab97a651.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-06.webp-a0543943-a24e-4f2c-911b-29c0f4dc2834.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-07.webp-21c22960-e528-4baf-abe2-8c7ff72d591e.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-08.webp-c419a475-4b6b-4950-887e-8ff803181ce7.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-09.webp-5a2f85d5-0b6f-44ff-82ea-d21a29c444de.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-10.webp-c0d225b3-2ee7-49d3-bd86-8a4d018d0586.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-11.webp-7f318c4a-042e-4503-92e1-511ce1adb648.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-12.webp-4ef75fdf-fe1b-4381-a70f-405f4af89124.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-13.webp-4f5b8312-6765-4499-8fa7-5962bb0e5bd9.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-14.webp-8e269beb-b97b-4db1-a649-7b1db62fb1d1.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-15.webp-babdffbc-85dc-42b8-b080-5dff66ff9887.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-photo1.webp-ee53ae2c-5ab3-4956-b110-c3cd9d1dd78b.webp",
+        "/assets/internal/KZ ZS10 Pro 2/Thunderbit - 743c2e47-6995-421b-8bb5-6e0ae1b8adea/kz-zs10-pro-2-photo2.webp-14b2aa33-6764-4cf5-bcb7-ae06ef373b82.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-zs10-pro-2.html"
+      }
+    },
+    {
+      "id": "kz-symphony",
+      "name": "KZ Symphony",
+      "headline": "KZ Symphony",
+      "category": "Planar",
+      "driver_config": "13.2mm",
+      "description": "13. 2mm Planar Driver + 6mm Dynamic Driver Earphones.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "18Ω",
+        "sensitivity": "95dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-01.webp-7fce8a01-dcbb-49d8-a0b1-14da888c0260.webp",
+        "internal": "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-02-icon-03.webp-df389b87-856e-4147-a796-71aa50d74a5d.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-01-mob.webp-e8f91509-90cd-423c-a1ed-9c0b73949559.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-03.webp-ff933b63-6343-4afc-ae0a-77f8d9fb942e.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-04.webp-0c414bc1-8fe0-4d43-bd64-020757d07a61.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-05.webp-dcc89dcc-9982-4eb6-8b65-c5ec7a3d626f.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-06.webp-1a2362af-839e-42c7-b327-fc571ce15025.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-07.webp-a5c87647-de43-4c41-ba77-9fd3e2e1ae14.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-08.webp-0354b9ae-592a-44cb-9d1c-5bce5ab47007.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-09.webp-79f257a0-8118-4a22-8691-ed6ccfa9f889.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-12.webp-bed16ca9-09b4-4860-af53-8e8c7ca7eee9.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-13-1.webp-c900a244-5401-4664-85fb-eaa3ed551c06.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-13-2.webp-f0c506ad-e8eb-48cc-8901-4291785169a6.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-13-3.webp-1833a7a7-b2e8-409f-a86e-082060448f56.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-14.webp-d7b8ea51-7aa8-4e64-b729-c14865dbdcf5.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-photo-mic.webp-e3a2d7a5-4511-4494-800d-3a9232c57307.webp",
+        "/assets/internal/KZ Symphony/Thunderbit - cc28e32a-c76e-442b-88fc-46a69c12c7ec/kz-symphony-photo-no-mic.webp-63cc418c-2fcf-464c-96cd-9747c3c517ea.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-symphony.html"
+      }
+    },
+    {
+      "id": "kz-zsn-pro-2",
+      "name": "KZ ZSN PRO 2",
+      "headline": "KZ ZSN PRO 2",
+      "category": "Hybrid",
+      "driver_config": "Professional Tech",
+      "description": "Newly 2024 Professional Hybrid Technology Earphones.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "26Ω",
+        "sensitivity": "108dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-01.webp-157a4d0c-6ec5-4f65-bc0e-8749a5884697.webp",
+        "internal": "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-03.webp-1bf9d4cf-5738-4300-a78d-b2b6139d5026.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-01-mob.webp-457fcf00-eabe-408e-ac87-7f86570b0b16.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-02.webp-1f8f1a83-c035-426d-b018-669788f8a0be.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-04.webp-22ffda4e-e6e9-44be-83ca-fabd05822ad8.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-05.webp-d5c174e8-3b3d-4806-ab81-98c1d8918314.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-06.webp-14490c69-30a0-4e42-8a7a-e95cbbc11193.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-07.webp-fa7e69ef-216d-4318-a392-84fcefe65b33.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-08.webp-dbaed23c-0157-4b34-93ea-762f1d0f6761.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-09.webp-5c4cdb4e-be7f-47eb-bb8d-5d1e513e94df.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-blue-mic.webp-e3b0aedd-d5c0-4f10-96cd-adb270048f8d.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-blue-no-mic.webp-356578a2-14d2-44fd-b4c8-e091c186a57e.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-gold-mic.webp-a5d2ea15-aa94-4882-992e-ff4b9b56ded3.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-gold-no-mic.webp-1d13f293-c59f-4990-ae38-ab9bb56bc03f.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-photo1.webp-4d273816-5b0b-4a37-91ee-c747c1ce93a0.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-photo2.webp-1b5a4d9b-3f83-4e7d-a735-9db6fe16ee26.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-photo3.webp-8639212c-a7e1-4f94-9821-eec6e0fe0e7a.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-white-mic.webp-4a05d9f6-30cd-4e69-9c39-990d1f9bef97.webp",
+        "/assets/internal/KZ ZSN PRO 2/Thunderbit - 411b385b-9993-4159-86db-7a098fc14d51/kz-zsn-pro-2-white-no-mic.webp-08c0542c-bd36-4309-ae63-752972f8c706.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-zsn-pro-2.html"
+      }
+    },
+    {
+      "id": "kz-zat",
+      "name": "KZ ZAT",
+      "headline": "KZ ZAT",
+      "category": "Hybrid",
+      "driver_config": "Professional Tech",
+      "description": "Quad-layer Voice Coil DD + 8BA Hybrid Earphones.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "11-18Ω",
+        "sensitivity": "111±3dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-01.webp-2e080718-268e-4509-a2e0-fdaea18b4dcd.webp",
+        "internal": "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-03.webp-dec9b8f7-e663-486a-ad64-b35bad169ab8.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-01-mob.webp-5a9ba159-d880-4d9c-b9d7-aeecf3e16f9e.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-02.webp-c2b9b090-e244-46ba-97bf-815155a3a251.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-04.webp-700b4e41-b3eb-4490-b099-2b131889ed1e.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-05.webp-efadf22f-d079-4bc4-8c05-ed3eb442723e.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-06-01.webp-145f6a67-1b3f-4d22-817c-2e916692efa9.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-06-02.webp-4ce8c377-8ec3-4dc4-a2db-9c69a0587535.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-07.webp-3f1b488d-9c8d-4fbd-84b0-82226f572ea7.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-08.webp-a6049ede-c4b3-423a-8c34-37136243c94f.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-09.webp-07add822-b83f-4469-be7e-178fbf9a116c.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-10.webp-08bc344c-c3dd-4ca7-a87e-82f00a38ae1a.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-11.webp-818e4b2e-2e23-49c0-be86-df756821af91.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-12-mic.webp-772767ce-d42c-4755-ad6e-b08555ca5798.webp",
+        "/assets/internal/KZ ZAT/Thunderbit - 8744f8ab-2647-4f57-b5ce-dc4f029227bc/kz-zat-12.webp-7d518ab1-f146-4805-ae4e-0b1b94e1d350.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-zat.html"
+      }
+    },
+    {
+      "id": "kz-krila",
+      "name": "KZ Krila",
+      "headline": "KZ Krila",
+      "category": "Hybrid",
+      "driver_config": "10mm",
+      "description": "10mm XUN DD + 30095 BA Hybrid Tunable Earphones.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "28-36Ω",
+        "sensitivity": "106±3dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-01.webp-f391761b-f481-4ff7-b29e-6afc832baa04.webp",
+        "internal": "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-03.webp-07a61c82-9802-4ec6-84ec-339605a0cb53.webp"
+      },
+      "gallery": [
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-01-mob.webp-1aea1b95-f8ce-41b5-8067-9c0ff54d698f.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-02.webp-2d6ae408-9ec9-42c4-9552-e5f97092a1c9.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-04.webp-1721ba03-e495-4760-aca0-d4c21701361f.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-05.webp-70b408a1-1f93-44e6-b820-0bc15821fb95.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-06.webp-7372e619-b934-44a2-b7a5-b10399bb0dd5.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-07.webp-b653e779-3701-42f9-9909-164bb3a4b82b.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-08.webp-4bf060c3-2785-4ab5-a6ea-b762fecc14b8.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-09.webp-d11cad22-88e4-4115-b8c1-1a55a64c03b6.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-10.webp-a2388a4a-8c9b-4bd1-a584-3b58c7b583cb.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-11.webp-03510360-657d-4e0d-b8bf-6ac783486c77.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-12.webp-6a9f66f9-dc27-4049-8f3a-6eb06a499feb.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-13.webp-0c9a2c3b-29fb-41a0-a2a6-8b9786bf12c4.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-15-01.webp-731b4526-6520-4bf8-aced-e37d5a338b0d.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-15-02.webp-b7a1be5b-bba5-478a-989f-9aae5161da92.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-15-03.webp-29966a59-e1b4-47f4-89b7-29bd3d63179e.webp",
+        "/assets/internal/KZ Krila/Thunderbit - c179c3b1-15da-467f-a3b7-31256270bec4/kz-krila-15-04.webp-28804e64-8ab1-4b92-9d57-31291fb77709.webp"
+      ],
+      "links": {
+        "official": "https://kz-audio.com/kz-krila.html"
+      }
+    },
+    {
+      "id": "kz-phantom",
+      "name": "KZ Phantom",
+      "headline": "KZ Phantom",
+      "category": "Dynamic",
+      "driver_config": "Professional Tech",
+      "description": "Hi-Fi Grade Flagship Esports Gaming Earphones.",
+      "specs": {
+        "frequency_response": "20-40000Hz",
+        "impedance": "41Ω",
+        "sensitivity": "128dB±2dB"
+      },
+      "signature": "Balanced",
+      "price_range": "Premium",
+      "images": {
+        "product": "https://kz-audio.com/images/main-card-kz-phantom.webp",
+        "internal": "https://images.unsplash.com/photo-1610410427814-1e03f001e715?q=80&w=600"
+      },
+      "gallery": [],
+      "links": {
+        "official": "https://kz-audio.com/kz-phantom.html"
+      }
+    }
+  ]
+}

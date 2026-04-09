@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "kz-phantom",
+    "customer": "Khalid S.",
+    "rating": 5,
+    "comment": "Absolutely clinical frequency response. The planar driver is a masterpiece.",
+    "status": "live",
+    "date": "2024-04-01T12:00:00Z"
+  },
+  {
+    "id": "rev-2",
+    "productId": "kz-duonic",
+    "customer": "Ahmed M.",
+    "rating": 4,
+    "comment": "Great bass impact, but requires a good DAC to shine.",
+    "status": "live",
+    "date": "2024-04-02T14:30:00Z"
+  }
+]
